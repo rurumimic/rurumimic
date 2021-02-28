@@ -1,16 +1,20 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-<!--
-**rurumimic/rurumimic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+나는 data engineer 입니다.  
+귀하는 나의 깃허브를 둘러 보시는 것을 환영합니다.  
 
-Here are some ideas to get you started:
+My repositories are messy and need to be organized.  
+This is the blueprint for my own rocket. 👨‍🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 👨‍💻 at work
+- hadoop, spark, kafka
+- kubernetes, terraform
+- vault, kerberos
+
+##### 🏠 at home
+- graphql, node.js, react.js
+
+##### 🦄 interest
+- entrepreneurship: product management
+- concurrency: golang
+- ai: nlp
