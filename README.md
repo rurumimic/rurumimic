@@ -1,10 +1,11 @@
 # F1 Schedule 2021
 
-<details>
+### Upcomming Grand Prix
 
-<summary>
-Jul 16 ~ 18: Rolex British GP - Silverstone Circuit.
-</summary>
+**Rolex British GP**: Jul 16 ~ 18. Silverstone Circuit
+
+<details>
+<summary>more schedule</summary>
 
 | DATE | RACE | CIRCUIT | WINNER/LIGHTS OUT  |
 |---|---|---|---|
