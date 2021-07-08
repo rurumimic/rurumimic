@@ -1,5 +1,11 @@
 # F1 Schedule 2021
 
+<details>
+
+<summary>
+Jul 16 ~ 18: Rolex British GP - Silverstone Circuit.
+</summary>
+
 | DATE | RACE | CIRCUIT | WINNER/LIGHTS OUT  |
 |---|---|---|---|
 | Mar 26 - 28  | Bahrain GP | Bahrain International Circuit | L. Hamilton  |
@@ -25,3 +31,5 @@
 | Nov 19 - 21  | Australian GP | Melbourne Grand Prix Circuit | Canceled  |
 | Dec 3 - 5  | Saudi Arabian GP | Jeddah Street Circuit | Dec 6 - 1:00 am  |
 | Dec 10 - 12  | Etihad Airways Abu Dhabi GP |Yas Marina Circuit | Dec 12 - 10:00 pm |
+
+</details>
