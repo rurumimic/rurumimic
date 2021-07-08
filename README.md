@@ -6,6 +6,7 @@
 
 <details>
 <summary>more schedule</summary>
+<br>
 
 | DATE | RACE | CIRCUIT | WINNER/LIGHTS OUT  |
 |---|---|---|---|
