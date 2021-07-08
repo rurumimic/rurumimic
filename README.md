@@ -18,7 +18,7 @@
 | Jun 18 - 20  | French GP | Circuit Paul Ricard | M. Verstappen  |
 | Jun 25 - 27  | Austrian GP | Red Bull Ring | M. Verstappen  |
 | Jul 2 - 4  | Austrian GP 2 | Red Bull Ring | M. Verstappen  |
-| Jul 16 - 18  | Rolex British GP | Silverstone Circuit | Jul 18 - 11:00 pm  |
+| **Jul 16 - 18**  | **Rolex British GP** | **Silverstone Circuit** | **Jul 18 - 11:00 pm**  |
 | Jul 30 - Aug 1  | Hungarian GP | Hungaroring | Aug 1 - 10:00 pm  |
 | Aug 27 - 29  | Belgian GP | Circuit de Spa-Francorchamps | Aug 29 - 10:00 pm  |
 | Sep 3 - 5  | Netherlands GP | Circuit Park Zandvoort | Sep 5 - 10:00 pm  |
