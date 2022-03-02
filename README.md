@@ -28,3 +28,9 @@
 
 - XCode: [Markup Formatting Reference](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497)
 </details>
+
+<details>
+    <summary>editor</summary>
+
+- [Emacs Wiki](https://www.emacswiki.org/emacs?interface=en)
+</details>
