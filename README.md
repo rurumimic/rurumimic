@@ -4,6 +4,7 @@
 #### go
 - [basic](https://github.com/rurumimic/golang): setup, concurrency
 - [network](https://github.com/rurumimic/network-go)
+- [gRPC](https://github.com/rurumimic/gRPC)
 </details>
 
 ---
