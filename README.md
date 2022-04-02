@@ -40,3 +40,11 @@
 
 - [cubic-bezier](https://cubic-bezier.com)
 </details>
+
+<details>
+    <summary>my repos</summary>
+
+#### go
+- [basic](https://github.com/rurumimic/golang): setup, concurrency
+- [network](https://github.com/rurumimic/network-go)
+</details>
