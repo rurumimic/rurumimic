@@ -7,8 +7,6 @@
 - [gRPC](https://github.com/rurumimic/gRPC)
 </details>
 
----
-
 <details>
     <summary>linux</summary>
  
