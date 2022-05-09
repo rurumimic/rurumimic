@@ -5,6 +5,11 @@
 - [basic](https://github.com/rurumimic/golang): setup, concurrency
 - [network](https://github.com/rurumimic/network-go)
 - [gRPC](https://github.com/rurumimic/gRPC)
+    
+#### functional programming
+- [fp](https://github.com/rurumimic/fp)
+- [haskell](https://github.com/rurumimic/haskell)
+- [lisp](https://github.com/rurumimic/lisp)
 </details>
 
 <details>
