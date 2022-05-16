@@ -1,6 +1,8 @@
 <details>
     <summary>my repos</summary>
-
+#### gist
+- [gist](https://gist.github.com/rurumimic)
+    
 #### go
 - [basic](https://github.com/rurumimic/golang): setup, concurrency
 - [network](https://github.com/rurumimic/network-go)
