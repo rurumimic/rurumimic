@@ -33,6 +33,7 @@
 <details>
     <summary>documentation styles</summary>
  
+#### styles
 - [Google](https://developers.google.com/style) - [word list](https://developers.google.com/style/word-list)
 - [Microsoft](https://docs.microsoft.com/style-guide)
 - [Apple](https://help.apple.com/applestyleguide/)
@@ -41,8 +42,11 @@
 - [Merriam-Webster](https://www.merriam-webster.com)
   
 #### reference
-
 - XCode: [Markup Formatting Reference](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497)
+
+#### templates
+- [.gitignore](https://www.toptal.com/developers/gitignore)
+- [readme](https://readme.so/editor)
 </details>
 
 <details>
