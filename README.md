@@ -9,7 +9,6 @@
 - [gRPC](https://github.com/rurumimic/gRPC)
     
 #### functional programming
-- [fp](https://github.com/rurumimic/fp)
 - [haskell](https://github.com/rurumimic/haskell)
 - [lisp](https://github.com/rurumimic/lisp)
 - [sml](https://github.com/rurumimic/sml)
