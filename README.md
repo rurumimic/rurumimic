@@ -60,3 +60,9 @@
 
 - [cubic-bezier](https://cubic-bezier.com)
 </details>
+
+<details>
+    <summary>research</summary>
+
+- On the Criteria to be Used in Decomposing Systems into Modules - David Lorge. Parnas
+</details>
