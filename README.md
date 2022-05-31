@@ -53,7 +53,9 @@
     <summary>editor</summary>
 
 - [Emacs Wiki](https://www.emacswiki.org/emacs?interface=en)
-- [Fonts](https://www.programmingfonts.org/): MesloLGS NF
+- [Fonts](https://www.programmingfonts.org/): MesloLGS NF, [Cartograph CF](https://connary.com/cartograph.html)
+- themes
+   - [noctis](https://vscodethemes.com/e/liviuschera.noctis/noctis?language=javascript)
 </details>
 
 <details>
