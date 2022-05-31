@@ -53,7 +53,7 @@
     <summary>editor</summary>
 
 - [Emacs Wiki](https://www.emacswiki.org/emacs?interface=en)
-- [Fonts](https://www.programmingfonts.org/)
+- [Fonts](https://www.programmingfonts.org/): MesloLGS NF
 </details>
 
 <details>
