@@ -56,6 +56,7 @@
 - [Fonts](https://www.programmingfonts.org/): MesloLGS NF, [Cartograph CF](https://connary.com/cartograph.html)
 - themes
    - [noctis](https://vscodethemes.com/e/liviuschera.noctis/noctis?language=javascript)
+   - [zenburn dark matter](https://vscodethemes.com/e/nicola-granata.zenburn-dark-matter/zenburn-dark-matter-anthracite-komodo?language=javascript)
 </details>
 
 <details>
