@@ -7,6 +7,9 @@
 - [basic](https://github.com/rurumimic/golang): setup, concurrency
 - [network](https://github.com/rurumimic/network-go)
 - [gRPC](https://github.com/rurumimic/gRPC)
+
+#### c/c++
+- [c++](https://github.com/rurumimic/cplusplus)
     
 #### functional programming
 - [haskell](https://github.com/rurumimic/haskell)
