@@ -1,7 +1,17 @@
+```clojure
+(defn hello []
+    (println "Hello, There."))
+
+(hello)
+```
+
+<details>
+    <summary>my shortcut</summary>
+
+#### ▷ [gist](https://gist.github.com/rurumimic)
+
 <details>
     <summary>my repos</summary>
-
-#### [gist](https://gist.github.com/rurumimic)
     
 #### go
 - [basic](https://github.com/rurumimic/golang): setup, concurrency
@@ -74,4 +84,6 @@
     <summary>research</summary>
 
 - On the Criteria to be Used in Decomposing Systems into Modules - David Lorge. Parnas
+</details>
+    
 </details>
