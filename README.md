@@ -45,6 +45,10 @@
 
 <details>
     <summary>documentation styles</summary>
+    
+#### Courses
+
+- Google: [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
  
 #### styles
 - [Google](https://developers.google.com/style) - [word list](https://developers.google.com/style/word-list)
