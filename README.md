@@ -48,7 +48,7 @@
     
 #### Courses
 
-- Google: [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing) by Google
  
 #### styles
 - [Google](https://developers.google.com/style) - [word list](https://developers.google.com/style/word-list)
