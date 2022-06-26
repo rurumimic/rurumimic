@@ -8,6 +8,8 @@
 <details>
     <summary>my shortcut</summary>
 
+#### ▷ [.gitignore](https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,vim,emacs,visualstudiocode): macos,windows,linux,vim,emacs,visualstudiocode
+
 #### ▷ [gist](https://gist.github.com/rurumimic)
 
 <details>
