@@ -22,6 +22,9 @@
 - [network](https://github.com/rurumimic/network-go)
 - [gRPC](https://github.com/rurumimic/gRPC)
 
+#### rust
+- [rust](https://github.com/rurumimic/rust)
+
 #### c/c++
 - [c++](https://github.com/rurumimic/cplusplus)
     
