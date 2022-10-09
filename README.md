@@ -81,6 +81,7 @@
    - [MesloLGS NF](https://github.com/romkatv/powerlevel10k#manual-font-installation)
    - [Cartograph CF](https://connary.com/cartograph.html): $50
 - themes
+   - [kary pro colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
    - [noctis](https://vscodethemes.com/e/liviuschera.noctis/noctis?language=javascript)
    - [zenburn dark matter](https://vscodethemes.com/e/nicola-granata.zenburn-dark-matter/zenburn-dark-matter-anthracite-komodo?language=javascript)
 </details>
