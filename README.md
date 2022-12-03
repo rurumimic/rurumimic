@@ -70,15 +70,19 @@
     <summary>editor</summary>
 
 - [emacs wiki](https://www.emacswiki.org/emacs?interface=en)
-- themes: [codetheme.net](https://www.codethemes.net/themes/popular/dark)
-   - [kary pro colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
-   - [noctis](https://vscodethemes.com/e/liviuschera.noctis/noctis?language=javascript)
-   - [zenburn dark matter](https://vscodethemes.com/e/nicola-granata.zenburn-dark-matter/zenburn-dark-matter-anthracite-komodo?language=javascript)
 - [fonts](https://www.programmingfonts.org/)
    - [Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack)
    - [Hasklig](https://github.com/i-tu/Hasklig): `editor.fontWeight: 500`
    - [MesloLGS NF](https://github.com/romkatv/powerlevel10k#manual-font-installation)
    - [Cartograph CF](https://connary.com/cartograph.html): $50
+- vscode
+   - [kary pro colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
+   - [noctis](https://vscodethemes.com/e/liviuschera.noctis/noctis?language=javascript)
+   - [zenburn dark matter](https://vscodethemes.com/e/nicola-granata.zenburn-dark-matter/zenburn-dark-matter-anthracite-komodo?language=javascript)
+- xcode: [codetheme.net](https://www.codethemes.net/themes/popular/dark)
+   - save: `/Users/dodo/Library/Developer/Xcode/UserData/FontAndColorThemes`
+   - [Ego 2](https://www.codethemes.net/theme/ego_2)
+   - [Mangold](https://www.codethemes.net/theme/mangold)
 </details>
 
 <details>
