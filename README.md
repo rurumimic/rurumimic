@@ -1,10 +1,3 @@
-```clojure
-(defn hello []
-    (println "Hello, There."))
-
-(hello)
-```
-
 <details>
     <summary>my shortcut</summary>
 
@@ -77,7 +70,7 @@
     <summary>editor</summary>
 
 - [emacs wiki](https://www.emacswiki.org/emacs?interface=en)
-- themes
+- themes: [codetheme.net](https://www.codethemes.net/themes/popular/dark)
    - [kary pro colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
    - [noctis](https://vscodethemes.com/e/liviuschera.noctis/noctis?language=javascript)
    - [zenburn dark matter](https://vscodethemes.com/e/nicola-granata.zenburn-dark-matter/zenburn-dark-matter-anthracite-komodo?language=javascript)
