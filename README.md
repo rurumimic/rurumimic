@@ -5,7 +5,7 @@
 
 - [.gitignore template](https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,vim,emacs,visualstudiocode): macos,windows,linux,vim,emacs,visualstudiocode
 - my [gists](https://gist.github.com/rurumimic)
-- my dev [env](https://github.com/rurumimic/start)
+- my dev [env](https://github.com/rurumimic/supply)
 
 <details>
     <summary>my repos</summary>
