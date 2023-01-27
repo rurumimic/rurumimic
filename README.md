@@ -1,3 +1,12 @@
+daily:
+- [Economist](https://www.economist.com/)
+- [Linux Weekly News](https://lwn.net/)
+- [Linux News](https://www.linux.com/)
+- [Linux Foundation Blog](https://www.linuxfoundation.org/blog/)
+- [OS News](https://www.osnews.com/)
+- [GitHub Explore](https://github.com/explore)
+- [GeekNews](https://news.hada.io/)
+
 <details>
     <summary>my shortcut</summary>
 
@@ -75,7 +84,10 @@
    - [Hasklig](https://github.com/i-tu/Hasklig): `editor.fontWeight: 500`
    - [MesloLGS NF](https://github.com/romkatv/powerlevel10k#manual-font-installation)
    - [Cartograph CF](https://connary.com/cartograph.html): $50
+- vim
+   - [pink moon](https://vimcolorschemes.com/sts10/vim-pink-moon) 
 - vscode
+   - [monokai pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
    - [kary pro colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
    - [noctis](https://vscodethemes.com/e/liviuschera.noctis/noctis?language=javascript)
    - [zenburn dark matter](https://vscodethemes.com/e/nicola-granata.zenburn-dark-matter/zenburn-dark-matter-anthracite-komodo?language=javascript)
