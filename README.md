@@ -1,11 +1,4 @@
-daily:
-- [Economist](https://www.economist.com/)
-- [Linux Weekly News](https://lwn.net/)
-- [Linux News](https://www.linux.com/)
-- [Linux Foundation Blog](https://www.linuxfoundation.org/blog/)
-- [OS News](https://www.osnews.com/)
-- [GitHub Explore](https://github.com/explore)
-- [GeekNews](https://news.hada.io/)
+daily: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linux.com](https://www.linux.com/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
 
 <details>
     <summary>my shortcut</summary>
