@@ -1,6 +1,6 @@
 daily: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linux.com](https://www.linux.com/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
 
-lang: [rust](https://github.com/rurumimic/rust), [go](https://github.com/rurumimic/golang), [zig](https://github.com/rurumimic/zig), [c++](https://github.com/rurumimic/cplusplus), [c](https://github.com/rurumimic/C), [haskell](https://github.com/rurumimic/haskell)
+lang: [rust](https://github.com/rurumimic/rust), [go](https://github.com/rurumimic/golang), [zig](https://github.com/rurumimic/zig), [c++](https://github.com/rurumimic/cplusplus), [haskell](https://github.com/rurumimic/haskell)
 
 <details>
     <summary>my shortcut</summary>
