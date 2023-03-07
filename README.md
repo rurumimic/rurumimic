@@ -10,7 +10,7 @@
 <br>
 
 - [.gitignore template](https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,vim,emacs,visualstudiocode): macos,windows,linux,vim,emacs,visualstudiocode
-- my [gists](https://gist.github.com/rurumimic)
+- [gists](https://gist.github.com/rurumimic)
 
 <details>
     <summary>my repos</summary>
@@ -19,6 +19,7 @@
 - [rust](https://github.com/rurumimic/rust)
 - [c++](https://github.com/rurumimic/cplusplus)
 - [haskell](https://github.com/rurumimic/haskell), [lisp](https://github.com/rurumimic/lisp), [sml](https://github.com/rurumimic/sml), [julia](https://github.com/rurumimic/julia)
+- [kernel](https://github.com/rurumimic/kernel), [unix](https://github.com/rurumimic/unix-v6-commentary)
 
 </details>
 
