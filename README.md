@@ -4,6 +4,8 @@
 
 🗞️: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linux.com](https://www.linux.com/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
 
+✍️: [dhh](https://world.hey.com/dhh)
+
 <details>
     <summary>my shortcut</summary>
 
