@@ -6,6 +6,8 @@
 
 ✍️: [dhh](https://world.hey.com/dhh)
 
+📚: [web.dev](https://web.dev/)
+
 <details>
     <summary>my shortcut</summary>
 
