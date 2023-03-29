@@ -6,7 +6,7 @@
 
 ✍️: [dhh](https://world.hey.com/dhh)
 
-📚: [web.dev](https://web.dev/)
+📚: [web.dev](https://web.dev/), [mdn](https://developer.mozilla.org/)
 
 <details>
     <summary>my shortcut</summary>
