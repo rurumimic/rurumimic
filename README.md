@@ -40,6 +40,7 @@
 - [Linux News](https://www.linux.com/)
 - [Linux Foundation Blog](https://www.linuxfoundation.org/blog/)
 - [OS News](https://www.osnews.com/)
+- [Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 
 </details>
 
