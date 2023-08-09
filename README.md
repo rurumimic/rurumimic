@@ -1,19 +1,16 @@
-[🪖 보급](https://github.com/rurumimic/supply), [🫡 지휘](https://github.com/rurumimic/directing), [👷 인적 자원 관리](https://github.com/rurumimic/directing/blob/master/hr/README.md), [🏰 공성전](https://github.com/rurumimic/siege)
+[🪖 supply](https://github.com/rurumimic/supply), [🫡 directing](https://github.com/rurumimic/directing), [👷 human resource management](https://github.com/rurumimic/directing/blob/master/hr/README.md), [🏰 siege](https://github.com/rurumimic/siege)
 
-[🦀 rust](https://github.com/rurumimic/rust), [🐭 go](https://github.com/rurumimic/golang), [💧 elixir](https://github.com/rurumimic/elixir), [🔥 mojo](https://github.com/rurumimic/mojo), [🦎 zig](https://github.com/rurumimic/zig), [🦦 v](https://github.com/rurumimic/v), [λ haskell](https://github.com/rurumimic/haskell), [c++](https://github.com/rurumimic/cplusplus), [tla⁺](https://github.com/rurumimic/tlaplus)
+[🦀 rust](https://github.com/rurumimic/rust), [🐭 go](https://github.com/rurumimic/golang), [λ haskell](https://github.com/rurumimic/haskell), [c++](https://github.com/rurumimic/cplusplus), [tla⁺](https://github.com/rurumimic/tlaplus)
 
-🗞️: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linux.com](https://www.linux.com/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
+🗞️: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
 
-✍️: [dhh](https://world.hey.com/dhh)
-
-📚: [web.dev](https://web.dev/), [mdn](https://developer.mozilla.org/)
 
 <details>
     <summary>my shortcut</summary>
 
 <br>
 
-- [.gitignore template](https://www.toptal.com/developers/gitignore?templates=vim,emacs,linux,macos,windows,visualstudiocode,tags): macos,windows,linux,vim,emacs,visualstudiocode,tags
+- [.gitignore](https://www.toptal.com/developers/gitignore?templates=vim,emacs,linux,macos,windows,visualstudiocode,tags): macos,windows,linux,vim,emacs,visualstudiocode,tags
 - [gists](https://gist.github.com/rurumimic)
 
 <details>
@@ -24,6 +21,17 @@
 - [c++](https://github.com/rurumimic/cplusplus)
 - [function](https://github.com/rurumimic/Function-Do-not-use-it), [haskell](https://github.com/rurumimic/haskell), [lisp](https://github.com/rurumimic/lisp), [sml](https://github.com/rurumimic/sml), [julia](https://github.com/rurumimic/julia)
 - [kernel](https://github.com/rurumimic/kernel), [unix](https://github.com/rurumimic/unix-v6-commentary)
+
+</details>
+
+<details>
+    <summary>read</summary>
+
+🗞️: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linux.com](https://www.linux.com/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
+
+✍️: [dhh](https://world.hey.com/dhh)
+
+📚: [web.dev](https://web.dev/), [mdn](https://developer.mozilla.org/)
 
 </details>
 
