@@ -13,7 +13,7 @@
 
 <br>
 
-- [.gitignore template](https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,vim,emacs,visualstudiocode): macos,windows,linux,vim,emacs,visualstudiocode
+- [.gitignore template](https://www.toptal.com/developers/gitignore?templates=vim,emacs,linux,macos,windows,visualstudiocode,tags): macos,windows,linux,vim,emacs,visualstudiocode,tags
 - [gists](https://gist.github.com/rurumimic)
 
 <details>
