@@ -1,26 +1,22 @@
-[🪖 supply](https://github.com/rurumimic/supply), [🫡 directing](https://github.com/rurumimic/directing), [👷 human resource management](https://github.com/rurumimic/directing/blob/master/hr/README.md), [🏰 siege](https://github.com/rurumimic/siege)
-
-[🦀 rust](https://github.com/rurumimic/rust), [🐭 go](https://github.com/rurumimic/golang), [λ haskell](https://github.com/rurumimic/haskell), [c++](https://github.com/rurumimic/cplusplus), [tla⁺](https://github.com/rurumimic/tlaplus)
-
-🗞️: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
-
-
 <details>
     <summary>my shortcut</summary>
 
 <br>
 
+- [🪖 supply](https://github.com/rurumimic/supply), [🫡 directing](https://github.com/rurumimic/directing), [👷 human resource management](https://github.com/rurumimic/directing/blob/master/hr/README.md), [🏰 siege](https://github.com/rurumimic/siege)
+- 🗞️: [economist](https://www.economist.com/), [lwn.net](https://lwn.net/), [linuxfoundation.org](https://www.linuxfoundation.org/blog/), [osnews](https://www.osnews.com/), [github.com/explore](https://github.com/explore), [geeknews](https://news.hada.io/)
 - [.gitignore](https://www.toptal.com/developers/gitignore?templates=vim,emacs,linux,macos,windows,visualstudiocode,tags): macos,windows,linux,vim,emacs,visualstudiocode,tags
 - [gists](https://gist.github.com/rurumimic)
 
 <details>
-    <summary>my repos</summary>
+    <summary>languages</summary>
 
 - [go](https://github.com/rurumimic/golang), [network](https://github.com/rurumimic/network-go), [grpc](https://github.com/rurumimic/gRPC)
 - [rust](https://github.com/rurumimic/rust)
 - [c++](https://github.com/rurumimic/cplusplus)
 - [function](https://github.com/rurumimic/Function-Do-not-use-it), [haskell](https://github.com/rurumimic/haskell), [lisp](https://github.com/rurumimic/lisp), [sml](https://github.com/rurumimic/sml), [julia](https://github.com/rurumimic/julia)
 - [kernel](https://github.com/rurumimic/kernel), [unix](https://github.com/rurumimic/unix-v6-commentary)
+- [tla⁺](https://github.com/rurumimic/tlaplus)
 
 </details>
 
