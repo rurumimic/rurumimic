@@ -1,3 +1,5 @@
+[🪖 supply](https://github.com/rurumimic/supply)
+
 <details>
     <summary>my shortcut</summary>
 
