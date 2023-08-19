@@ -1,4 +1,8 @@
-[🪖 supply](https://github.com/rurumimic/supply)
+```rs
+loop {
+  딩코;
+}
+```
 
 <details>
     <summary>my shortcut</summary>
