@@ -1,9 +1,3 @@
-```rs
-loop {
-  딩코;
-}
-```
-
 <details>
     <summary>my shortcut</summary>
 
