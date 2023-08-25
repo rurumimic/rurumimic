@@ -1,3 +1,6 @@
+interested in:
+- freebsd 14.0: [release schedule](https://www.freebsd.org/releases/14.0R/schedule/), [stable/14](https://cgit.freebsd.org/src/log/?h=stable/14)
+
 <details>
     <summary>my shortcut</summary>
 
