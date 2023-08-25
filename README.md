@@ -2,7 +2,7 @@ interesting things these days:
 
 - freebsd 14.0: [release schedule](https://www.freebsd.org/releases/14.0R/schedule/), [stable/14](https://cgit.freebsd.org/src/log/?h=stable/14)
 
-<br><br>
+<br>
 
 <details>
     <summary>my shortcut</summary>
