@@ -1,4 +1,4 @@
-- [.dotfiles](https://github.com/rurumimic/.dotfiles) [.vim](https://github.com/rurumimic/.vim)
+- [dotfiles](https://github.com/rurumimic/dotfiles) [.vim](https://github.com/rurumimic/.vim)
 - [linux-next.git](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/)
 
 <br>
