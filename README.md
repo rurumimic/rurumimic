@@ -2,6 +2,7 @@
   - [.vim](https://github.com/rurumimic/.vim)
   - [nvim](https://github.com/rurumimic/nvim)
 - 🐧 [linux-next.git](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/)
+- ⛳ [vimgolf](https://www.vimgolf.com/)
 
 <br>
 
