@@ -1,2 +1,2 @@
 - 🕹️ [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim)
-
+- languages: [rust](https://github.com/rurumimic/rust), [c++](https://github.com/rurumimic/cplusplus)
