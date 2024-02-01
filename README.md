@@ -1,13 +1,12 @@
 - 🕹️ [doom](https://github.com/rurumimic/DOOM)
 - [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim) and [supply](https://github.com/rurumimic/supply)
-- languages: [rust](https://github.com/rurumimic/rust), [c++](https://github.com/rurumimic/cplusplus)
+- languages: [rust](https://github.com/rurumimic/rust), [c++](https://github.com/rurumimic/cplusplus), [c](https://github.com/rurumimic/c)
 
 <details>
   <summary>🐢 misaeng</summary>
 
 - [adventofcode](https://github.com/rurumimic/adventofcode)
 - [apache](https://github.com/rurumimic/apache)
-- [c](https://github.com/rurumimic/c)
 - [directing](https://github.com/rurumimic/directing): [git](https://github.com/rurumimic/directing/blob/master/git/README.md)
 - [dockerless](https://github.com/rurumimic/dockerless)
 - [haskell](https://github.com/rurumimic/haskell)
