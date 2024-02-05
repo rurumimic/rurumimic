@@ -1,3 +1,5 @@
+🎻 [초절기교 연습](https://youtu.be/eQW43EJYxbI?si=lZ6DQn4f41ZlXymk)
+
 - 😈 [doom](https://github.com/rurumimic/DOOM)
 - 🕹️ [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim) and [supply](https://github.com/rurumimic/supply)
 - 🦀 [rust](https://github.com/rurumimic/rust), [c++](https://github.com/rurumimic/cplusplus), [c](https://github.com/rurumimic/c)
