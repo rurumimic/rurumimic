@@ -1,4 +1,4 @@
-🎻 [초절기교 연습](https://youtu.be/eQW43EJYxbI?si=lZ6DQn4f41ZlXymk)
+🎻 [초절기교 연습](https://youtu.be/mOh5uXcVyZM?si=xgU1KznOVGzopGhl)
 
 - 😈 [doom](https://github.com/rurumimic/DOOM)
 - 🕹️ [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim) and [supply](https://github.com/rurumimic/supply)
