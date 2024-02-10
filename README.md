@@ -14,7 +14,7 @@
 - [haskell](https://github.com/rurumimic/haskell)
 - [hunsu](https://github.com/rurumimic/hunsu)
 - [go](https://github.com/rurumimic/golang): [network](https://github.com/rurumimic/network-go), [grpc](https://github.com/rurumimic/gRPC)
-- [kernel](https://github.com/rurumimic/kernel): [v2.6.39](https://github.com/torvalds/linux/tree/v2.6.39), [next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/)
+- [kernel](https://github.com/rurumimic/kernel): [v2.6.39](https://github.com/torvalds/linux/tree/v2.6.39), [next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/), [rust](https://github.com/Rust-for-Linux/linux)
 - [lisp](https://github.com/rurumimic/lisp)
 - [llvm](https://github.com/rurumimic/llvm)
 - [recommender](https://github.com/rurumimic/recommender)
