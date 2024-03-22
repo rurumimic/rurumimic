@@ -1,7 +1,7 @@
 🎻 [초절기교 연습](https://youtu.be/mOh5uXcVyZM?si=xgU1KznOVGzopGhl)
 
 - 😈 [doom](https://github.com/rurumimic/DOOM)
-- 🕹️ [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim) and [supply](https://github.com/rurumimic/supply)
+- 🕹️ [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim) and [supply](https://github.com/rurumimic/supply) with [.gitignore](https://www.toptal.com/developers/gitignore?templates=vim,tags,emacs,linux,macos,windows,powershell,certificates,visualstudiocode)
 - 🦀 [rust](https://github.com/rurumimic/rust), [c++](https://github.com/rurumimic/cplusplus), [c](https://github.com/rurumimic/c)
 
 <details>
