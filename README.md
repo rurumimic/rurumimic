@@ -19,6 +19,7 @@
 - [kernel](https://github.com/rurumimic/kernel): [v2.6.39](https://github.com/torvalds/linux/tree/v2.6.39), [next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/), [rust](https://github.com/Rust-for-Linux/linux)
 - [lisp](https://github.com/rurumimic/lisp)
 - [llvm](https://github.com/rurumimic/llvm)
+- [pingora](https://github.com/rurumimic/pingora)
 - [recommender](https://github.com/rurumimic/recommender)
 - [siege](https://github.com/rurumimic/siege)
 - [sml](https://github.com/rurumimic/sml)
