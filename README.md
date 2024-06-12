@@ -8,7 +8,7 @@
   <summary>🐢 misaeng</summary>
 
 - [adventofcode](https://github.com/rurumimic/adventofcode)
-- [apache](https://github.com/rurumimic/apache): [arrow](https://github.com/rurumimic/apache-arrow)
+- [apache](https://github.com/rurumimic/apache): [arrow](https://github.com/rurumimic/apache-arrow), [datafusion](https://github.com/rurumimic/apache-datafusion)
 - [blockchain](https://github.com/rurumimic/blockchain)
 - [cpu](https://github.com/rurumimic/cpu)
 - [directing](https://github.com/rurumimic/directing): [git](https://github.com/rurumimic/directing/blob/master/git/README.md)
