@@ -26,6 +26,7 @@
 - [streaming](https://github.com/rurumimic/streaming)
 - [terminal](https://github.com/rurumimic/terminal)
 - [tls+](https://github.com/rurumimic/tlaplus)
+- [tree-sitter](https://github.com/rurumimic/tree-sitter)
 - [unix v6](https://github.com/rurumimic/unix-v6-commentary): [src](https://github.com/dspinellis/unix-history-repo/tree/Research-V6)
 
 </details>
