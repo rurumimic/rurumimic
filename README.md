@@ -15,6 +15,7 @@
 - [dockerless](https://github.com/rurumimic/dockerless)
 - [haskell](https://github.com/rurumimic/haskell)
 - [hunsu](https://github.com/rurumimic/hunsu)
+- [fastpace](https://github.com/rurumimic/fastpace)
 - [go](https://github.com/rurumimic/golang): [network](https://github.com/rurumimic/network-go), [grpc](https://github.com/rurumimic/gRPC)
 - [kernel](https://github.com/rurumimic/kernel): [v2.6.39](https://github.com/torvalds/linux/tree/v2.6.39), [next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/), [rust](https://github.com/Rust-for-Linux/linux)
 - [lexyacc](https://github.com/rurumimic/lexyacc)
