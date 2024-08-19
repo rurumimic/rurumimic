@@ -14,7 +14,7 @@
 - [directing](https://github.com/rurumimic/directing): [git](https://github.com/rurumimic/directing/blob/master/git/README.md)
 - [dockerless](https://github.com/rurumimic/dockerless)
 - [haskell](https://github.com/rurumimic/haskell)
-- [hunsu](https://github.com/rurumimic/hunsu), [bert](https://github.com/rurumimic/bert)
+- [hunsu](https://github.com/rurumimic/hunsu), [transformer](https://github.com/rurumimic/transformer)
 - [fastpace](https://github.com/rurumimic/fastpace)
 - [go](https://github.com/rurumimic/golang): [network](https://github.com/rurumimic/network-go), [grpc](https://github.com/rurumimic/gRPC)
 - [kernel](https://github.com/rurumimic/kernel): [v2.6.39](https://github.com/torvalds/linux/tree/v2.6.39), [next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/), [rust](https://github.com/Rust-for-Linux/linux)
