@@ -21,6 +21,7 @@
 - [lexyacc](https://github.com/rurumimic/lexyacc)
 - [lisp](https://github.com/rurumimic/lisp)
 - [llvm](https://github.com/rurumimic/llvm)
+- [ocaml](https://github.com/rurumimic/ocaml)
 - [pingora](https://github.com/rurumimic/pingora)
 - [recommender](https://github.com/rurumimic/recommender)
 - [siege](https://github.com/rurumimic/siege)
