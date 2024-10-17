@@ -35,6 +35,7 @@
 - [recommender](https://github.com/rurumimic/recommender)
 - [siege](https://github.com/rurumimic/siege)
 - [streaming](https://github.com/rurumimic/streaming)
+- [stringology](https://github.com/rurumimic/stringology)
 - [terminal](https://github.com/rurumimic/terminal)
 - [tree-sitter](https://github.com/rurumimic/tree-sitter)
 - [unix v6](https://github.com/rurumimic/unix-v6-commentary): [src](https://github.com/dspinellis/unix-history-repo/tree/Research-V6)
