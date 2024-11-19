@@ -1,5 +1,5 @@
 - 😈 [doom](https://github.com/rurumimic/DOOM)
-- 🕹️ [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim) and [supply](https://github.com/rurumimic/supply) with [.gitignore](https://www.toptal.com/developers/gitignore?templates=vim,tags,emacs,linux,macos,windows,powershell,certificates,visualstudiocode)
+- 🕹️ [dotfiles](https://github.com/rurumimic/dotfiles): [.vim](https://github.com/rurumimic/.vim), [nvim](https://github.com/rurumimic/nvim), [.emacs.d](https://github.com/rurumimic/.emacs.d) and [supply](https://github.com/rurumimic/supply) with [.gitignore](https://www.toptal.com/developers/gitignore?templates=vim,tags,emacs,linux,macos,windows,powershell,certificates,visualstudiocode)
 - 🦀 [rust](https://github.com/rurumimic/rust)
 
 <details>
