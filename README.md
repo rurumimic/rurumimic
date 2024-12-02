@@ -25,6 +25,7 @@
 - [apache](https://github.com/rurumimic/apache): [arrow](https://github.com/rurumimic/apache-arrow), [datafusion](https://github.com/rurumimic/apache-datafusion)
 - [blockchain](https://github.com/rurumimic/blockchain)
 - [cpu](https://github.com/rurumimic/cpu)
+- [cs:app](https://github.com/rurumimic/csapp)
 - [directing](https://github.com/rurumimic/directing): [git](https://github.com/rurumimic/directing/blob/master/git/README.md)
 - [dockerless](https://github.com/rurumimic/dockerless)
 - [hunsu](https://github.com/rurumimic/hunsu), [transformer](https://github.com/rurumimic/transformer), [deep](https://github.com/rurumimic/deep)
