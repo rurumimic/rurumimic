@@ -42,6 +42,6 @@
 - [tree-sitter](https://github.com/rurumimic/tree-sitter)
 - [unix v6](https://github.com/rurumimic/unix-v6-commentary): [src](https://github.com/dspinellis/unix-history-repo/tree/Research-V6)
 
-- 🪤 [curated traps](https://github.com/rurumimic/traps)
+🪤 [curated traps](https://github.com/rurumimic/traps)
 
 </details>
