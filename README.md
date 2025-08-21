@@ -23,6 +23,7 @@
 
 - [adventofcode](https://github.com/rurumimic/adventofcode)
 - [apache](https://github.com/rurumimic/apache): [arrow](https://github.com/rurumimic/apache-arrow), [datafusion](https://github.com/rurumimic/apache-datafusion)
+- [async-scheduler](https://github.com/rurumimic/async-scheduler)
 - [blockchain](https://github.com/rurumimic/blockchain)
 - [cpu](https://github.com/rurumimic/cpu)
 - [cs:app](https://github.com/rurumimic/csapp)
