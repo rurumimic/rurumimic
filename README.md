@@ -37,6 +37,7 @@
 - [pingora](https://github.com/rurumimic/pingora)
 - [recommender](https://github.com/rurumimic/recommender)
 - [siege](https://github.com/rurumimic/siege)
+- [silicon](https://github.com/rurumimic/silicon)
 - [streaming](https://github.com/rurumimic/streaming)
 - [stringology](https://github.com/rurumimic/stringology)
 - [terminal](https://github.com/rurumimic/terminal)
