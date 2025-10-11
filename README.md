@@ -35,7 +35,7 @@
 - [kernel](https://github.com/rurumimic/kernel): [v2.6.39](https://github.com/torvalds/linux/tree/v2.6.39), [next](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/), [rust](https://github.com/Rust-for-Linux/linux)
 - [llvm](https://github.com/rurumimic/llvm)
 - [pingora](https://github.com/rurumimic/pingora)
-- [recommender](https://github.com/rurumimic/recommender)
+- [recommender](https://github.com/rurumimic/recommender): [twotower](https://github.com/rurumimic/twotower)
 - [siege](https://github.com/rurumimic/siege)
 - [silicon](https://github.com/rurumimic/silicon)
 - [streaming](https://github.com/rurumimic/streaming)
